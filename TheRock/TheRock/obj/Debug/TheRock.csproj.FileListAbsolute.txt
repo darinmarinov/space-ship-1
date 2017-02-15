@@ -1,0 +1,6 @@
+C:\Users\darin\Desktop\therock\TheRock\TheRock\bin\TheRock.dll.config
+C:\Users\darin\Desktop\therock\TheRock\TheRock\bin\TheRock.dll
+C:\Users\darin\Desktop\therock\TheRock\TheRock\bin\TheRock.pdb
+C:\Users\darin\Desktop\therock\TheRock\TheRock\obj\Debug\TheRock.csprojResolveAssemblyReference.cache
+C:\Users\darin\Desktop\therock\TheRock\TheRock\obj\Debug\TheRock.dll
+C:\Users\darin\Desktop\therock\TheRock\TheRock\obj\Debug\TheRock.pdb
